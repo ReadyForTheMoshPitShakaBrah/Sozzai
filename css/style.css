@@ -907,5 +907,8 @@
 	.yandexmaps {
 		position: relative;
 		width: 1000px;
-		left: 100px;
+		left: 56px;
+	}
+	#content {
+		width: 100%;
 	}
